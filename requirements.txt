@@ -1,1 +1,2 @@
 Requirements For Program
+Requires Numpy to run the Matrixes
